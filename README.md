@@ -1,1 +1,1 @@
-<h1>dyathweb</h1>
+<h1>MagTech</h1>
